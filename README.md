@@ -4,14 +4,14 @@
 
 ---
 
-## 📖 About
+## About
 
 **Tale-odsuva** represents the journey of learning concepts that expand thinking beyond the ordinary.  
 This repository is a collection of problem-solving approaches, primarily focused on **Data Structures and Algorithms (DSA)**, designed to build strong fundamentals and logical thinking.
 
 ---
 
-## 🚀 What You'll Find Here
+## What You'll Find Here
 
 - 🧠 DSA problem solutions
 - 💡 Optimized approaches and logic
